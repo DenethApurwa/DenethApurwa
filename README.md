@@ -40,7 +40,6 @@ Passionate about CyberSecurity, Networking, AI and Data Science
 ---
 
 ### 📌 Featured Focus Areas
-### 📌 Featured Focus Areas
 
 - **🌐 Web Application Development:** Architecting full-stack web solutions, designing RESTful APIs, and developing responsive frontends integrated with structured relational databases.
 - **🛡️ Cybersecurity & Information Protection:** Implementing network security protocols, system hardening, access control principles, and proactive vulnerability identification.
